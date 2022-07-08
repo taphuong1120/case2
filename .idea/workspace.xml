@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="435ea5b3-7056-42f7-8e91-24892f1200c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account/AccountAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account/AccountUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account/AccountUserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/IOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/accountUser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/bill.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/orderService.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/room.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/service.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/userInfor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/valueBill.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/valueOrder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/valueRoom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/valueService.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager/BillManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager/OrderServiceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager/RoomManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager/ServiceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/System/RunByAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/System/RunByUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Validate/Validate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BY4DGb07i5FEbTQg2eYzcs1dyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Desktop/CaseStudy-MD2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Manager.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manager.Main" />
+      <module name="CaseStudy2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Manager.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="435ea5b3-7056-42f7-8e91-24892f1200c6" name="Changes" comment="" />
+      <created>1657069567777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657069567777</updated>
+      <workItem from="1657069570566" duration="3231000" />
+      <workItem from="1657076014726" duration="15710000" />
+      <workItem from="1657119597474" duration="13649000" />
+      <workItem from="1657157619260" duration="3777000" />
+      <workItem from="1657162904172" duration="20506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
